@@ -16,7 +16,7 @@
     "url": ""
   },
   "homepage": "",
-  "dependencies" : {
-      "languagedetect": "latest"
+  "dependencies": {
+    "languagedetect": "latest"
   }
 }
